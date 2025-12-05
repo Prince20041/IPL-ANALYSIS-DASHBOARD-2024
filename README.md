@@ -6,6 +6,9 @@ This repository contains an interactive Excel-based Data Analytics Dashboard bui
 The IPL Dashboard transforms raw match data into meaningful insights using Excel’s analytical capabilities. It helps cricket fans, analysts, and students understand performance patterns, historical comparisons, and match-winning factors.
 The dashboard is built using Pivot Tables, Slicers, Charts, Data Modeling, and dynamic visualization techniques.
 
+## DATASET
+<a href="https://github.com/Prince20041/IPL-ANALYSIS-DASHBOARD-2024/blob/main/IPL%20ANALYSIS%20PROJECT.xlsx">EXCEL_dataset</a>
+
 ## 📊 Key Insights & Features
 ### 🔹 Season Highlights (IPL 2024)
 Winner: Kolkata Knight Riders
@@ -58,3 +61,6 @@ Analytical Thinking
 Power BI version for advanced interactivity
 Python automation for data updates
 Additional metrics: Orange Cap, Purple Cap, strike rates, etc.
+
+## 📸 Dashboard Preview
+<img width="1478" height="755" alt="IPL ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/865290e7-cf8b-4350-94da-0adb8718a050" />
